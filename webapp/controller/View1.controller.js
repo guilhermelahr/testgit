@@ -5,6 +5,8 @@ sap.ui.define([
 
 	return Controller.extend("test.test_git_parallel.controller.View1", {
 		onInit: function () {
+			
+			//my test
 
 		}
 	});
