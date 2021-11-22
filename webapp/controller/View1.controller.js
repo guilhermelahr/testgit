@@ -7,6 +7,7 @@ sap.ui.define([
 		onInit: function () {
 			
 			//my test
+			var a = this.getView();
 
 		}
 	});
