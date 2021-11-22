@@ -9,8 +9,8 @@ sap.ui.define([
 			//my test miimidmimdmd
 			var a = this.getView();
 			
-			
-			var x = a.byId("teste");
+			//você fez errado
+			//var x = a.byId("teste");
 
 		}
 	});
